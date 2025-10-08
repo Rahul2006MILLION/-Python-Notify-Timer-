@@ -6,12 +6,17 @@ This script uses the following Python libraries:
 plyer → for desktop notifications
 
 Installation
+
 Windows:
+
 Open Command Prompt and run:
+
 pip install plyer
 
 macOS:
+
 Open Terminal and run:
+
 pip3 install plyer
 
 Make sure Python 3 is installed. You can check by running python --version or python3 --version.
